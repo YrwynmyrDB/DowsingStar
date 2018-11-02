@@ -1,3 +1,7 @@
+# DowsingStar / Computer Applicable Dowsing Table
+A software that uses a pendulum and chart to achive a desired dataset.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
