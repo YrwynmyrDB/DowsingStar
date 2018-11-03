@@ -8,7 +8,7 @@ import './App.css';
     var myConfig = {
       "type":"ring",
       "title":{
-        "text":"Donut Chart"
+        "text":""
       },
       "plot":{
         //Use the "slice" attribute to adjust the size of the donut ring.
