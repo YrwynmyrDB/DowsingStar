@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import logo from './logo.svg';
+import Pi from './24pi.png';
 import './App.css';
 
 
@@ -47,3 +49,4 @@ class App extends Component {
 }
 
 export default App;
+
