@@ -38,8 +38,9 @@ class App extends Component {
         
 	
         </header>
+	    
         
-      
+      <footer><h3<This App needs the Computer Applicable Dowsing Table</h3></footer>
       </div>
      
     );
